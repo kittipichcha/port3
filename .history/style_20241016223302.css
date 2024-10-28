@@ -166,13 +166,6 @@ nav ul li a:hover {
     justify-content: center;
 }
 
-.image1 {
-    display: block;
-    width: 30%;
-    align-items: center;
-    justify-content: center;
-}
-
 .icon2Text {
     display: block;
     border: 2px solid #ddd;
